@@ -1,4 +1,4 @@
-module github.com/Shopify/sarama
+module github.com/mrsinham/sarama
 
 require (
 	github.com/DataDog/zstd v1.3.5
